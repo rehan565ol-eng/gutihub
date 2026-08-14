@@ -4,18 +4,18 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building automatically'
-                echo 'welcome to Bhutan'              
+                echo 'shaikh rehan'
+                echo '24bit57'              
             }
         }
  stage('Test') {
             steps {
-                echo 'Testing automatically'
+                echo 'mobile application'
             }
         }
  stage('Deploy') {
             steps {
-                echo 'Deploying automatically'
+                echo 'banger'
             }
         }
     }
